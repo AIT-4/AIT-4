@@ -50,7 +50,7 @@
 </div>
 <footer align="center" style="margin=5px; justify-content:center;">
   <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=tu-usuario.tu-repo" alt="Visitas"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AIT-4.AIT-4" alt="Visitas"/>
   </p>
   <p align="center">
     <sub>Hecho por <a href="https://github.com/AIT-4">Federico</a></sub>

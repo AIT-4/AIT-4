@@ -1,6 +1,6 @@
 <!-- Banner dinámico con Capsule Render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Federico%20Durussel&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Técnico%20Informático%20·%20UTN%20TUPaD%20·%20Help%20Desk&descAlignY=58&descSize=16&descColor=a8b2d8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Federico%20Durussel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Técnico%20Informático%20·%20UTN%20TUPaD%20·%20Help%20Desk&descAlignY=58&descSize=16&descColor=a8b2d8" />
 </div>
 
 ---

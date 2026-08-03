@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Federico%20Durussel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Técnico%20Informático%20·%20UTN%20TUPaD%20·%20Help%20Desk&descAlignY=58&descSize=16&descColor=a8b2d8" />
 </div>
 
----
-
 <div align="center">
   <h3>Sobre mí</h3>
   <p>
@@ -14,8 +12,6 @@
     Me apasiona el software libre, la música y reparar cosas.
   </p>
 </div>
-
----
 
 ## 🎓 Proyectos Universitarios
 
@@ -87,8 +83,6 @@
   </a>
 </div>
 
----
-
 ## 🛠️ Habilidades Técnicas
 
 <h4 align="center">Lenguajes de programación</h4>
@@ -109,15 +103,37 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
----
-
 ## 📈 Actividad de commits
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIT-4&theme=tokyo-night&hide_border=true&area=true&area_color=e94560" alt="Actividad de commits"/>
+  <br/>
+  <small>Si el gráfico no carga, visita: <a href="https://github.com/AIT-4">github.com/AIT-4</a></small>
 </div>
 
----
+## ⭐ Mis Stars Públicas
+
+<div align="center">
+  <p>Mis repositorios favoritos y proyectos que me inspiran:</p>
+  
+  <!-- GitHub Stars Widget -->
+  <a href="https://github.com/stars/AIT-4/lists">
+    <img src="https://img.shields.io/badge/Ver%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver mis stars"/>
+  </a>
+  
+  <br><br>
+  
+  <!-- Lista dinámica de repositorios starred (alternativa) -->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/stars/AIT-4">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIT-4&show_icons=true&theme=tokyo-night&hide_border=true" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🎯 Actualmente
 
@@ -128,8 +144,6 @@
 | Programación 3 — UTN TUPaD | Herramientas para Help Desk | Profundizar en Python y APIs REST |
 
 </div>
-
----
 
 <!-- OPCIONAL — Spotify Now Playing - instrucciones en: https://github.com/novatorem/novatorem 
 <div align="center">

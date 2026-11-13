@@ -1,9 +1,7 @@
 <!-- Banner dinámico con Capsule Render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Federico%20Durussel&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Técnico%20Informático%20·%20UTN%20TUPaD%20·%20Help%20Desk&descAlignY=58&descSize=16&descColor=a8b2d8" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=76b900&section=header&reversal=false&text=Durussel+Federico&textBg=false&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=38&rotate=0&strokeWidth=0&desc=Soporte+T%C3%A9cnico+%C2%B7+Analista+Funcional+%C2%B7+Programador&descSize=24&descAlign=50&descAlignY=58"/>
 </div>
-
----
 
 <div align="center">
   <h3>Sobre mí</h3>
@@ -14,8 +12,6 @@
     Me apasiona el software libre, la música y reparar cosas.
   </p>
 </div>
-
----
 
 ## 🎓 Proyectos Universitarios
 
@@ -87,8 +83,6 @@
   </a>
 </div>
 
----
-
 ## 🛠️ Habilidades Técnicas
 
 <h4 align="center">Lenguajes de programación</h4>
@@ -109,15 +103,11 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
----
-
 ## 📈 Actividad de commits
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIT-4&theme=tokyo-night&hide_border=true&area=true&area_color=e94560" alt="Actividad de commits"/>
 </div>
-
----
 
 ## 🎯 Actualmente
 
@@ -127,17 +117,5 @@
 |:---:|:---:|:---:|
 | Programación 3 — UTN TUPaD | Herramientas para Help Desk | Profundizar en Python y APIs REST |
 
-</div>
-
----
-
-<!-- OPCIONAL — Spotify Now Playing - instrucciones en: https://github.com/novatorem/novatorem 
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_USUARIO_SPOTIFY&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=e94560" />
-</div>
--->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
 </div>
 
